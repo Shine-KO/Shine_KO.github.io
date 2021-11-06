@@ -1,0 +1,26 @@
+body{background-color:darkgrey;
+        font-family: Segoe, Verdana, sans-serif;}
+
+header{background-color: darkturquoise;
+        width: 18%}
+
+h1{color: white;}
+
+h2{color: floralwhite;
+        background-color: darkblue;
+        width: 18%;}
+
+nav{color: whitesmoke;}
+
+nav>ul{background-color: darkorange;
+        width: 70%;
+        line-height: 2em;
+        list-style-type: circle;
+        padding-left: 10px;}
+
+section{background-color: darkorange;
+        width: 70%;
+        font-size: 1.2em;}
+
+footer{background-color: red;
+        width: 8%;}
